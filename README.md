@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence** projects
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning and implementing **Data Science**
 
 - 💬 Ask me about **Data Science,ML,DL,AI**
 
